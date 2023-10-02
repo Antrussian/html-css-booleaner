@@ -1,0 +1,148 @@
+body {
+    margin: 0px;
+}
+section{
+    margin-left: 5px;
+}
+
+footer {
+    margin-left: 5px;
+}
+
+.titolo {
+    font-size: 40px;
+    margin-bottom: 1px;
+    margin-top: 10px;
+}
+
+.logo{
+    height: 80%;
+    width: 20%;
+    margin-left: 1%;
+    margin-top: 3%;
+    border: none;
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+    
+
+}
+
+header{
+    background-color: #4E9FFD;
+    height:100%;
+    background-image: url(./img/pattern.png);
+    background-size: contain;
+    background-repeat: repeat;
+    background-position: top;
+    margin: 0px;
+    background-size: 25%;
+    
+    
+}
+
+h2 {
+    margin-bottom: 1px;
+}
+
+#autore{
+    font-size: 12px;
+    color: grey;
+    margin-bottom: 1px;
+    margin-top: 1px;
+    font-weight: 400;
+}
+
+#data-articolo{
+    font-size: 10px;
+    color: grey;
+    margin-top: 1px;
+    font-weight: 200;
+    
+}
+
+.link-autore{
+    color: rgb(57, 171, 209);
+}
+
+
+.descrizione-foto{
+    font-weight: 200;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+
+.evidenziato {
+    background-color: yellow;
+}
+
+
+
+th {
+    width: 25%;
+    text-align: left;
+    color: white;
+
+}
+
+
+
+
+.tr-head
+{
+    background-color: rgb(23, 148, 189);
+   
+}
+
+.tr-blue {
+    background-color: lightblue;
+
+    
+}
+
+.tr-white {
+    background-color: white;
+   
+    
+}
+
+
+
+.img-upsell {
+    width: 200px;
+    height: 150px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(./img/monitor.jpg);
+    color: white;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.img-upsell2 {
+    width: 200px;
+    height: 150px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(./img/graph.jpg);
+    margin-top: 1px;
+    margin-bottom: 1px;
+    
+}
+
+.titolo-upsell {
+    font-size: 95%;
+    color: white;
+    padding: 5%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+#titolo-sezione-upsell {
+    color: grey;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    
+}
